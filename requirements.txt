@@ -1,0 +1,10 @@
+asgiref==3.3.1
+pytz==2020.5
+sqlparse==0.4.1
+numpy~=1.19.5
+googlemaps~=4.4.2
+ortools~=8.1.8487
+Flask~=1.1.2
+scipy~=1.6.0
+flask-executor~=0.9.4
+waitress~=1.4.4
